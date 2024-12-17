@@ -1,0 +1,74 @@
+.sec1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: small;
+}
+.sec2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 1px 0px 0px black;
+}
+.sec2c {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+.sec2c .icon div{
+    padding-right: 30px;
+}
+.sec3 ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    padding-bottom: 10px;
+}
+.sec4{
+    padding-left: 30px;
+    background-color: antiquewhite;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+}
+.sec5{
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: small;
+}
+.sec6{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.sec6b{
+    display:flex;
+    gap: 15px;
+    margin-left: -520px;
+}
+.sec6b1{
+    background-color: white;
+    border: 1px solid rgb(219, 214, 214);
+    padding: 5px;
+}
+.sec6c{
+    display: flex;
+    gap: 10px;
+    padding-right: 30px;
+}
+.sec6c1{
+    background-color: white;
+    border: 1px solid rgb(219, 214, 214);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 15px;
+}
+.sec6c2{
+    color: rgb(98, 102, 105);
+}
