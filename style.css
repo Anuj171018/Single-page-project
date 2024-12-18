@@ -72,3 +72,39 @@
 .sec6c2{
     color: rgb(98, 102, 105);
 }
+.sec7{
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+.sec7a{
+    color: rgb(98, 102, 105);
+    font-size: 23px;
+}
+.sec8{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(4,auto);
+    padding-left: 10px;
+}
+.sec8a1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -350px;
+    color: white;
+    border: 1px solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+.sec8b{
+    margin-top: 350px;
+}
+.sec8b1 i{
+    color: orange;
+    
+}
+.sec8b1{
+    margin-top: -10000;
+}
