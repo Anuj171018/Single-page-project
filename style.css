@@ -143,3 +143,149 @@
     font-size: 15px;
     font-weight: 600;
 }
+.sec11{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.sec11a{
+    display: flex;
+    gap: 20px;
+}
+.sec11a1 ul{
+    list-style: none;
+    text-decoration: none;
+}
+.sec11a2 ul{
+    list-style: none;
+    text-decoration: none;
+}
+.sec11a3 ul{
+    list-style: none;
+    text-decoration: none;
+}
+.sec11a4 ul{
+    list-style: none;
+    text-decoration: none;
+}
+.sec11a1 ul li{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.sec11a2 ul li{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.sec11a3 ul li{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.sec11a4 ul li{
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.sec11 h4{
+    padding-left: 40px;
+}
+.sec11b1{
+    font-size: 20px;
+    font-weight: 700;
+}
+.follow{
+    font-size: 20px;
+    font-weight: 700;
+}
+.sec11b2{
+    display: flex;
+    font-size: 20px;
+    gap: 10px;
+}
+.sec11b3{
+    font-size: 20px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+.sec11b4{
+    font-size: 20px;
+    font-weight: 700;
+    padding-right: 20px;
+}
+.sec12{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    background-color: black;
+    margin-top: -5px;
+}
+.sec12b{
+    font-size: 15px;
+    padding-right: 10px;
+}
+.hr{
+    margin-top: -5px;
+    
+}
+
+@media screen and (max-width:700px) {
+    .sec1{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec2{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec3{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec4{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec5{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec6{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec7{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec8{
+        grid-template-columns: repeat(2,auto);
+        grid-template-rows: repeat(2,auto);
+    }
+    .sec9{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec10{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec11{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .sec12{
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    
+}
