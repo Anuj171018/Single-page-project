@@ -1,0 +1,25 @@
+.sec8{
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-template-rows: repeat(4,auto);
+    padding-left: 40px;
+}
+.sec8a{
+    color: orangered;
+    font-size: 12px;
+    padding-bottom: 5px;
+}
+.sec8b{
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 5px;
+}
+.sec8c{
+    color: rgb(98, 102, 105);
+    padding-bottom: 5px;
+}
+.sec8d{
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 20px;
+}
